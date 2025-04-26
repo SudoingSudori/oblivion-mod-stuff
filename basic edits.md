@@ -26,6 +26,7 @@ This is a note on basic property changes for the remaster. Might be useful if yo
 12. Select your new .esp file as the destination.
     ![Screenshot 10](screenshots/basic-edits/guide10.png)
 13. Confirm.
+    
     ![Screenshot 11](screenshots/basic-edits/guide11.png)
 14. Navigate to your container in your .esp file. Pick Items tab and right click, pick "Add item".
     ![Screenshot 12](screenshots/basic-edits/guide12.png)
@@ -33,6 +34,7 @@ This is a note on basic property changes for the remaster. Might be useful if yo
     ![Screenshot 13](screenshots/basic-edits/guide13.png)
     ![Screenshot 14](screenshots/basic-edits/guide14.png)
 16. Save your file.
+    
     ![Screenshot 15](screenshots/basic-edits/guide15.png)
 17. Enable your plugin in ObvData/Data/plugins.txt.
 18. Test.
